@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shiv-Rawat/E-cell/static/css/main.11b0e1a4.css",
+    "main.js": "/shiv-Rawat/E-cell/static/js/main.310a92a6.js",
+    "static/js/787.32be9644.chunk.js": "/shiv-Rawat/E-cell/static/js/787.32be9644.chunk.js",
+    "index.html": "/shiv-Rawat/E-cell/index.html",
+    "main.11b0e1a4.css.map": "/shiv-Rawat/E-cell/static/css/main.11b0e1a4.css.map",
+    "main.310a92a6.js.map": "/shiv-Rawat/E-cell/static/js/main.310a92a6.js.map",
+    "787.32be9644.chunk.js.map": "/shiv-Rawat/E-cell/static/js/787.32be9644.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11b0e1a4.css",
+    "static/js/main.310a92a6.js"
+  ]
+}
